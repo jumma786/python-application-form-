@@ -68,14 +68,6 @@ tk
 
 (Tkinter is usually included with Python installations.)
 
-### ▶️ How to Run the Project
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/application-form-gui.git
-2️⃣ Navigate to the folder
-cd application-form-gui
-3️⃣ Run the program
-python Application_Form.py
-
 The GUI form will open where users can enter their information.
 
 #### 📊 Example Output (Console)
